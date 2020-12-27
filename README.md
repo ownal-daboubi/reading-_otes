@@ -4,5 +4,5 @@
 
 page | link
 ------------ | -------------
-read01 | [go to]()
+read01 | [go to](https://ownal-daboubi.github.io/reading-_otes/read01)
 read02 | [go to]()
