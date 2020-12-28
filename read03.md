@@ -6,85 +6,29 @@ and definition list which are made up of a set of terms along with thedefinition
 1. orederd lists <ol> uses this element and each item in the list is placedbetween an opening <li> tagand a closing </li> tag.
  (The li stands for list item.) 
 
-Example : 
-<ol>
-<li>Chop potatoes into quarters</li>
-<li>Simmer in salted water for 15-20
-minutes until tender</li>
-<li>Heat milk, butter and nutmeg</li>
-<li>Drain potatoes and mash</li>
-<li>Mix in the milk mixture</li>
-</ol>
+
 
 2. unordered lists <ul> uses this element <li> Each item in the list is placed between an opening <li> tag and a closing </li> tag.
  (The li stands for list item.)
 
- Example :
- <ul>
-<li>1kg King Edward potatoes</li>
-<li>100ml milk</li>
-<li>50g salted butter</li>
-<li>Freshly grated nutmeg</li>
-<li>Salt and pepper to taste</li>
-</ul>
 
 3. Definition Lists <dl> uses thid element and inside there is pairs <dt> to contain the term being defined and  <dd> to contain the
  definition.
 
 
-  Example :
-  <dl>
-<dt>Sashimi</dt>
-<dd>Sliced raw fish that is served with
-condiments such as shredded daikon radish or
-ginger root, wasabi and soy sauce</dd>
-<dt>Scale</dt>
-<dd>A device used to accurately measure the
-weight of ingredients</dd>
-<dd>A technique by which the scales are removed
-from the skin of a fish</dd>
-<dt>Scamorze</dt>
-<dt>Scamorzo</dt>
-<dd>An Italian cheese usually made from whole
-cow's milk (although it was traditionally made
-from buffalo milk)</dd>
-</dl>
+
 
 4. Nested lists You can put a second list insidean <li> element to create a sublist.
 
 
 
-  Example : 
-  <ul>
-<li>Mousses</li>
-<li>Pastries
-<ul>
-<li>Croissant</li>
-<li>Mille-feuille</li>
-<li>Palmier</li>
-<li>Profiterole</li>
-</ul>
-</li>
-<li>Tarts</li>
-</ul>
-
+ 
 Boxes:
 
 You can set several properties that affect the appearance of these boxes like Boxes dimensions width, height. on the units used 
 to make the dimensions are pixels, percentages, or ems. Now when using percentages,the size of the box is relative tothe size of the browser window.when using ems the sizeof the box is based on the sizeof text within it.
 
-Example: 
 
-on the Css page 
-Result
-div.box {
-height: 300px;
-width: 300px;
-background-color: #bbbbaa;}
-p {
-height: 75%;
-width: 75%;
-background-color: #0088dd;}
  
  **limiting width min and max width
  min-width property specifiesthe smallest size a box can be displayed at when the browser window is narrow.
@@ -99,14 +43,6 @@ background-color: #0088dd;}
  border-width  is used to control the width of a border.value of this property can either be given
 in pixels or thin ,medium ,thick. or you can use the percentage. 
 
-Example :
-
- p.one {
-border-width: 2px;}
-p.two {
-border-width: thick;}
-p.three {
-border-width: 1px 4px 12px 4px;}
 
 border-style to control the style of a border and the values as follow :
 
