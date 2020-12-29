@@ -1,4 +1,4 @@
-# reading-_otes
+# reading notes
 
 ## table of contents 
 
