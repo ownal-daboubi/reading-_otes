@@ -42,7 +42,7 @@ target using target attribute to open in a new window.
 Layout:
 
 we need the layout to :
-Controlling t XX he position of elements
+Controlling the position of elements
 Creating site layouts
 Designing for different sized screens
 
