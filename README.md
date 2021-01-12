@@ -17,7 +17,7 @@ read10 | [go to](https://ownal-daboubi.github.io/readingnotes201/read10)
 read11 | [go to](https://ownal-daboubi.github.io/readingnotes201/read11)
 read12 | [go to](https://ownal-daboubi.github.io/readingnotes201/read12)
 read13 | [go to](https://ownal-daboubi.github.io/readingnotes201/read13)
-read14 | [go to]()
+read14 | [go to](https://ownal-daboubi.github.io/readingnotes201/read14)
 read15 | [go to]()
 
 
